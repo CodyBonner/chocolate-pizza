@@ -1,0 +1,87 @@
+#Delicious-header{
+  margin-left: 45px;
+  margin-top: -60px;
+  position: absolute;
+font-weight:200;
+  font-size: 38px;
+  font-family: 'Yellowtail', cursive;
+
+}
+
+#Delicious-subtext{
+  font-family: 'Nanum Gothic', sans-serif;
+  
+  position: absolute;
+  font-size: x-small;
+  margin-left: 45px;
+  margin-top: -13px;
+  max-width: 30vb;
+}
+
+#logo{
+  max-width: 20vb;
+}
+
+header{
+  border-image: url("img/hr-img.png") 30 round;
+}
+
+#logo-container{
+  margin-left:111vb;
+  margin-top: -10px;
+  display: flex;
+  gap: 1px;
+  max-width: fit-content;
+  
+}
+#extra-logos{
+  position: absolute;
+  margin-left: 137vb;
+  margin-top: -25px;
+  display: flex;
+  gap: 2px;
+  max-width: fit-content;
+}
+#header-border{
+  position: absolute;
+  width: 66.9%;
+  margin-top: 15px;
+  height: 10px;
+  background-image: url("img/hr-img.png");
+  
+}
+h1{
+  margin-top: 45px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: bold;
+}
+#h1-subtext{
+  color: lightgray;
+  font-size: 13px;
+}
+#print-id{
+  position: absolute;
+  color: lightgray;
+  font-size: 13px;
+  margin-left: 139vb;
+  margin-top: -25px;
+}
+
+#main-text{
+  color: gray;
+  font-family:'Times New Roman', Times, serif ;
+  font-size: 20.5px;
+  max-width: 147vb;
+}
+
+form{
+  display: flex;
+  margin-left: 8vb;
+  margin-top: -47vb;
+}
+
+#formset-id *{
+  padding-right: 1px;
+  display: inline-block;
+  
+}
