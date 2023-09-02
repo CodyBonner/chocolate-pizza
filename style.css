@@ -75,13 +75,212 @@ h1{
 }
 
 form{
+  font-size: 20px;
+  position: absolute;
   display: flex;
   margin-left: 8vb;
   margin-top: -47vb;
 }
 
-#formset-id *{
-  padding-right: 1px;
+#milk-input{
   display: inline-block;
+}
+
+#milk-id{
+  display: inline-block;
+}
+
+
+
+#mascarpone-input{
+  position: absolute;
+  margin-left: -23.9vb;
+  margin-top: 35px;
+  display: inline-block;
+}
+
+#mascarpone-id{
+  position: absolute;
+  width: 300px;
+  margin-top: 34px;
+  margin-left: -20vb;
+}
+
+#pink-salt-input{
+  position: absolute;
+  margin-left: -47vb;
+  margin-top: 12vb;
+  width: 300px;
+}
+
+#pink-salt-id{
+  position: absolute;
+  margin-top: 11vb;
+  margin-left: -20vb;
+  width: 300px;
+}
+
+#figs-input{
+  position: absolute;
+  margin-top: 17vb;
+  margin-left: -24vb;
+}
+
+#figs-id{
+  position: absolute;
+  margin-top: 17vb;
+  width: 300px;
+  margin-left: -20vb;
+}
+
+#brown-sugar-input{
+  position: absolute;
+  margin-top: 22vb;
+  margin-left: -24vb;
+}
+
+#brown-sugar-id{
+  position: absolute;
+  margin-top: 22vb;
+  margin-left: -20vb;
+  width: 300px;
+}
+
+#water-input{
+  position: absolute;
+  margin-top: 28vb;
+  margin-left: -24vb;
+}
+
+#water-id{
+  position: absolute;
+  margin-top: 28vb;
+  margin-left: -20vb;
+}
+
+#cream-input{
+  position: absolute;
+  margin-left:50vb;
+}
+
+#cream-id{
+  position: absolute;
+  margin-left: 53vb;
+  width: 300px;
+}
+
+#sugar-input{
+  position: absolute;
+  margin-left: 50vb;
+  margin-top: 6vb;
+}
+
+#sugar-id{
+  position: absolute;
+  margin-left: 53vb;
+  width: 300px;
+  margin-top: 6vb;
+}
+
+#egg-input{
+  position: absolute;
+  margin-left: 50vb;
+  margin-top: 12vb;
+}
+
+#egg-id{
+  position: absolute;
+  margin-left: 53vb;
+  width: 300px;
+  margin-top: 12vb;
+}
+
+#lemon-input{
+  position: absolute;
+  margin-left: 50vb;
+  margin-top: 18vb;
+}
+
+#lemon-id{
+  position: absolute;
+  margin-left: 53vb;
+  width: 300px;
+  margin-top: 18vb;
+}
+
+#butter-input{
+  position: absolute;
+  margin-left: 50vb;
+  margin-top: 24vb;
+}
+
+#butter-id{
+  position: absolute;
+  margin-left: 53vb;
+  margin-top: 24vb;
+  width: 300px;
+}
+
+#pecans-input{
+  position: absolute;
+  margin-left: 50vb;
+  margin-top: 30vb;
+}
+
+#pecans-id{
+  position: absolute;
+  margin-left: 53vb;
+  margin-top: 30vb;
+  width: 300px;
+}
+
+#footer-border{
+  position: absolute;
+  width: 66.9%;
+  margin-top: 15px;
+  height: 10px;
+  background-image: url("img/hr-img.png"); 
+}
+
+#owner{
+  position: absolute;
+  margin-top: 10vb;
+}
+
+#owner-name{
+  position: absolute;
+  margin-left: 13vb;
+  margin-top: 9vb;
+}
+#owner-subtext{
+  width: 100vb;
+  font-size: 19px;
+  position: absolute;
+  margin-left: 13vb;
+  margin-top: 14vb;
+}
+#button{
+  position: absolute;
+  margin-left: 115vb;
+  margin-top: 10vb;
+  text-align: center;
+  background-color: salmon;
+  width: 150px;
+  height: 50px;
+}
+
+#small-logo{
+  position: absolute;
+  margin-left: 75vb;
+  margin-top: 40vb;
   
+}
+footer{
+  color: lightgray;
+  text-align: center;
+  width: 250px;
+  position: absolute;
+  margin-left: 60vb;
+  margin-top: 50vb;
+
 }
